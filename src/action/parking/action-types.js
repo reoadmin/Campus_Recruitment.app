@@ -1,0 +1,8 @@
+/**
+ * Created by S jawwad hashmi on 1/27/2017.
+ */
+
+
+export const GET_PARKING_PROCESS_ERROR = 'GET_PARKING_PROCESS_ERROR';
+export const GET_PARKING_PROCESS_SUCCESS = 'GET_PARKING_PROCESS_SUCCESS';
+export const GET_PARKING_PROCESS = 'GET_PARKING_PROCESS';
